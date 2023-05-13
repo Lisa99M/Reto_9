@@ -5,6 +5,9 @@
 3. De los retos anteriores seleciones 3 funciones y escribalas con argumentos no definidos (*args).
 4. Escriba una función recursiva para calcular la operación de la potencia.
 5. Realice pruebas para calcular fibonacci con iteración o con recursión. Determine desde que número de la serie la diferencia de tiempo se vuelve significativa. 
+[![dif.png](https://i.postimg.cc/7Zz79y90/dif.png)](https://postimg.cc/MnWvZNhp)
+
+[![fibo-img.png](https://i.postimg.cc/63qCd4m5/fibo-img.png)](https://postimg.cc/5YcHJyJZ)
 
 6. Crear cuenta en stackoverflow y adjuntar imagen en el repo
 [![2023-04-28-1.png](https://i.postimg.cc/VLhz5Ws7/2023-04-28-1.png)](https://postimg.cc/mt7v5MHM)
