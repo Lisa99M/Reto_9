@@ -47,7 +47,7 @@ end_time = time.time()
 timer2 = end_time - start_time
 print("Tiempo: " + str(timer2))
 
-if timer2 - timer1 > 10:
+if timer2 - timer1 > 0.1:
   print("La diferencia entre iteración y recursión es significativa para " + str(num))
 else:
   print("La diferencia entre iteración y recursión no es significativa para " + str(num))
